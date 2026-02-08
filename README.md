@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-wzxe.vercel.app/api?username=krrish-cypto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=krrish-cypto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats-lyart-eta-50.vercel.app/?user=krrish-cypto&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats-wzxe.vercel.app/api/top-langs/?username=krrish-cypto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
